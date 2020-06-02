@@ -13,11 +13,3 @@ Timeline of chat and a lot more!
 ![alt text](https://dataiszen.com/wp/wp-content/uploads/2020/02/chat1-1024x446.png)
 
 ![alt text](https://dataiszen.com/wp/wp-content/uploads/2020/02/chat2-1024x708.png)
-
-Try the webapp here
-
-https://dataiszen.com/app/text_analyzer/analyze
-
-Wanna see a sample before trying? We’ve got you covered for that too.
-
-https://dataiszen.com/app/text_analyzer/sample
