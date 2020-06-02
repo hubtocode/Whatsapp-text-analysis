@@ -1,4 +1,4 @@
-# Text-analysis
+# Text analysis
 
 Have you ever wondered what’s going on in your WhatsApp chats?
 
